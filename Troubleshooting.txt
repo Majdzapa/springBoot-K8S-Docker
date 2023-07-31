@@ -25,4 +25,7 @@ kubectl exec -it <pod_name> bash
 //Then use the command below to connect to the MySQL server
 mysql -h mysql -u root -p 
 
+
 //Update from local
+
+//update from Remote
