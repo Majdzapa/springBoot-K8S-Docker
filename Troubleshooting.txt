@@ -26,4 +26,7 @@ kubectl exec -it <pod_name> bash
 mysql -h mysql -u root -p 
 
 
-//update from local+remote+local+local
+
+//update from local+remote+local
+//remote
+
