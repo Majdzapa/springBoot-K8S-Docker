@@ -28,5 +28,5 @@ mysql -h mysql -u root -p
 
 
 //update from local+remote+local
-//remote
+//remote+intellij
 
